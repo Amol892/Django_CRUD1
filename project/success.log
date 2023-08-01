@@ -1,0 +1,841 @@
+INFO 2023-08-01 15:16:03,114 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:16:10,050 basehttp "GET /app1/update/1/ HTTP/1.1" 200 2254
+INFO 2023-08-01 15:16:11,592 views Record is updated
+INFO 2023-08-01 15:16:11,593 basehttp "POST /app1/update/1/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:16:11,600 views All records are feteched and displayed on home page
+INFO 2023-08-01 15:16:11,605 basehttp "GET /app1/home/ HTTP/1.1" 200 5184
+INFO 2023-08-01 15:17:07,927 views Record is deleted
+INFO 2023-08-01 15:17:07,929 basehttp "GET /app1/delete/9/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:17:07,935 views All records are feteched and displayed on home page
+INFO 2023-08-01 15:17:07,943 basehttp "GET /app1/home/ HTTP/1.1" 200 4684
+INFO 2023-08-01 15:18:21,116 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:18:21,818 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:18:30,356 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:18:30,889 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:18:32,273 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:18:32,869 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:18:34,318 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:18:34,999 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:18:41,506 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:24:39,690 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:24:47,290 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:24:47,858 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:24:57,409 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:24:57,954 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:25:01,393 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:25:02,009 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:25:03,378 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:25:03,940 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:25:36,200 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:25:36,574 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
+INFO 2023-08-01 15:27:43,087 basehttp "POST /app1/person/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:27:43,102 basehttp "GET /app1/home/ HTTP/1.1" 200 5187
+INFO 2023-08-01 15:28:41,326 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
+INFO 2023-08-01 15:30:40,730 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:30:41,377 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:30:46,890 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:30:47,405 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:30:53,879 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:30:54,363 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:31:29,892 basehttp "POST /app1/person/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:31:29,906 basehttp "GET /app1/home/ HTTP/1.1" 200 5690
+INFO 2023-08-01 15:32:02,439 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:32:02,984 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:32:05,421 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:32:05,987 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:32:10,024 views Record is deleted
+INFO 2023-08-01 15:32:10,030 basehttp "GET /app1/delete/11/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:32:10,038 views All records are feteched and displayed on home page
+INFO 2023-08-01 15:32:10,050 basehttp "GET /app1/home/ HTTP/1.1" 200 5187
+INFO 2023-08-01 15:32:12,516 basehttp "GET /app1/update/10/ HTTP/1.1" 200 2254
+INFO 2023-08-01 15:32:17,401 views Record is updated
+INFO 2023-08-01 15:32:17,402 basehttp "POST /app1/update/10/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:32:17,406 views All records are feteched and displayed on home page
+INFO 2023-08-01 15:32:17,412 basehttp "GET /app1/home/ HTTP/1.1" 200 5187
+INFO 2023-08-01 15:32:19,381 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
+INFO 2023-08-01 15:32:29,945 views New record is added
+ERROR 2023-08-01 15:32:29,945 views New record is added
+INFO 2023-08-01 15:32:29,947 basehttp "POST /app1/person/ HTTP/1.1" 302 0
+INFO 2023-08-01 15:32:29,950 views All records are feteched and displayed on home page
+INFO 2023-08-01 15:32:29,956 basehttp "GET /app1/home/ HTTP/1.1" 200 5704
+INFO 2023-08-01 15:33:33,871 autoreload D:\python files\Django debuging\django_crud\project\app1\views.py changed, reloading.
+INFO 2023-08-01 15:33:34,437 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:12,733 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:13,315 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:14,697 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:15,256 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:18,843 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:19,399 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:21,788 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:22,423 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:24,792 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:25,313 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:27,647 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:28,203 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:31,600 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:32,110 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:33,560 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:34,088 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:36,548 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:34:37,036 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:47,237 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:34:51,284 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
+INFO 2023-08-01 15:34:53,139 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
+INFO 2023-08-01 15:35:15,399 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:35:15,932 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:35:17,267 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:35:17,847 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:35:19,185 autoreload D:\python files\Django debuging\django_crud\project\app1\forms.py changed, reloading.
+INFO 2023-08-01 15:35:19,736 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:35:22,210 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
+INFO 2023-08-01 15:45:14,606 autoreload Watching for file changes with StatReloader
+ERROR 2023-08-01 15:45:20,826 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:45:20,839 basehttp "GET /app1/person/ HTTP/1.1" 500 168330
+INFO 2023-08-01 15:46:07,211 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:46:07,773 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:46:12,217 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:46:12,776 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:46:20,202 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:46:20,768 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:46:22,083 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:46:22,554 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:46:26,972 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:46:27,495 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:46:29,825 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:46:30,343 autoreload Watching for file changes with StatReloader
+ERROR 2023-08-01 15:46:32,285 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:32,295 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:34,489 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:34,497 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:34,888 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:34,896 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:35,095 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:35,103 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:35,288 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:35,294 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:35,519 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:35,528 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:35,757 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:35,764 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:35,995 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:36,001 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+ERROR 2023-08-01 15:46:36,243 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:46:36,249 basehttp "GET /app1/person/ HTTP/1.1" 500 168478
+INFO 2023-08-01 15:47:42,374 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:47:42,862 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:47:54,303 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:47:54,738 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:48:08,206 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:48:08,758 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:48:13,057 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:48:13,501 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:48:15,731 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:48:16,286 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:48:44,935 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:49:35,559 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:50:55,309 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:55:57,082 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:56:06,462 autoreload D:\python files\Django debuging\django_crud\project\project\settings.py changed, reloading.
+INFO 2023-08-01 15:56:18,562 autoreload Watching for file changes with StatReloader
+ERROR 2023-08-01 15:56:26,337 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:56:26,346 basehttp "GET /app1/person/ HTTP/1.1" 500 168454
+ERROR 2023-08-01 15:56:33,243 log Internal Server Error: /app1/person/
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'crispy_forms_tags'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python files\Django debuging\django_crud\project\app1\views.py", line 21, in Person_view
+    return render(request,template_name,context)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "D:\python files\Django debuging\django_crud\venv\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'crispy_forms_tags' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-08-01 15:56:33,250 basehttp "GET /app1/person/ HTTP/1.1" 500 168454
+INFO 2023-08-01 15:56:49,531 autoreload Watching for file changes with StatReloader
+INFO 2023-08-01 15:56:51,765 basehttp "GET /app1/person/ HTTP/1.1" 200 2148
